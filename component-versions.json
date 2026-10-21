@@ -1,0 +1,46 @@
+{
+  "package": "embedded-mcu-development",
+  "package_version": "1.0.0-rc.2",
+  "date": "2026-10-21",
+  "status": "公开仓库分发快照",
+  "purpose": "维护版本与摘要清单；宿主入口为plugin.json",
+  "components": [
+    {
+      "name": "embedded-mcu-plan",
+      "version": "1.0",
+      "source": "skills/embedded-mcu-plan",
+      "files": [
+        {
+          "file": "skills/embedded-mcu-plan/SKILL.md",
+          "sha256": "72d442b1e94b5648a0aa890e5ca6b142c7653ddb50a71556643f2ee74770c10c"
+        }
+      ]
+    },
+    {
+      "name": "embedded-mcu-design",
+      "version": "1.0.1",
+      "source": "skills/embedded-mcu-design",
+      "files": [
+        {
+          "file": "skills/embedded-mcu-design/SKILL.md",
+          "sha256": "5d2f9a95b4b4d163ede3b74584cd75a86cf97238e500a76f4d1d43353319692c"
+        }
+      ]
+    },
+    {
+      "name": "embedded-mcu-code",
+      "version": "1.2",
+      "source": "skills/embedded-mcu-code",
+      "files": [
+        {
+          "file": "skills/embedded-mcu-code/SKILL.md",
+          "sha256": "33efc833460f363d2e55025989b46d1104137ed1dcd8e81e35e9555c471d5638"
+        },
+        {
+          "file": "skills/embedded-mcu-code/references/open-source-style.md",
+          "sha256": "e0b1dba175c17921a795332417148ae9fd23719a20305de00fbb408c211a9b32"
+        }
+      ]
+    }
+  ]
+}

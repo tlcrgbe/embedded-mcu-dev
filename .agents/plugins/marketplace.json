@@ -1,0 +1,16 @@
+{
+  "name": "embedded-mcu-dev",
+  "interface": {
+    "displayName": "嵌入式 MCU 开发技能包"
+  },
+  "plugins": [
+    {
+      "name": "embedded-mcu-development",
+      "source": {
+        "source": "local",
+        "path": "./"
+      },
+      "category": "Productivity"
+    }
+  ]
+}

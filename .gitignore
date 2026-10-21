@@ -1,0 +1,9 @@
+# 本机配置与过程产物不进入分发
+.DS_Store
+Thumbs.db
+__pycache__/
+*.pyc
+*.log
+*.zip
+.env
+.env.*

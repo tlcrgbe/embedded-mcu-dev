@@ -1,0 +1,6 @@
+* text=auto
+*.md text eol=lf
+*.json text eol=lf
+*.svg text eol=lf
+# 保留已确认技能的原始字节，便于核对组件 SHA256
+skills/** -text

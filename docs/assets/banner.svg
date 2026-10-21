@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-labelledby="title desc">
+  <title id="title">嵌入式 MCU 开发：规划、设计、编码</title>
+  <desc id="desc">深蓝色背景上展示从功能规划到文件接口设计再到嵌入式 C 编码的三个入口。</desc>
+  <defs>
+    <linearGradient id="bg" x2="1" y2="1"><stop stop-color="#0b162b"/><stop offset="1" stop-color="#173a50"/></linearGradient>
+    <pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse"><path d="M 28 0 L 0 0 0 28" fill="none" stroke="#ffffff" stroke-opacity=".04"/></pattern>
+  </defs>
+  <rect width="1200" height="300" rx="20" fill="url(#bg)"/>
+  <rect width="1200" height="300" rx="20" fill="url(#grid)"/>
+  <g font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif">
+    <rect x="48" y="40" width="6" height="55" rx="3" fill="#5eead4"/>
+    <text x="72" y="62" fill="#5eead4" font-size="14" letter-spacing="3">EMBEDDED MCU DEV</text>
+    <text x="70" y="103" fill="#f8fafc" font-size="32" font-weight="700">从产品想法，到清楚的 MCU 实现</text>
+    <text x="70" y="137" fill="#b6cbd9" font-size="17">固定工况 · 少防御 · 职责清晰 · 高内聚低耦合</text>
+    <path d="M 355 218 H 421 M 745 218 H 811" stroke="#5eead4" stroke-width="2"/>
+    <path d="m 412 211 10 7 -10 7 M 802 211 l 10 7 -10 7" fill="none" stroke="#5eead4" stroke-width="2"/>
+    <g fill="#152f45" stroke="#3e6176">
+      <rect x="48" y="175" width="305" height="84" rx="12"/>
+      <rect x="439" y="175" width="305" height="84" rx="12"/>
+      <rect x="830" y="175" width="322" height="84" rx="12"/>
+    </g>
+    <g fill="#f1f5f9" font-size="22" font-weight="600">
+      <text x="72" y="211">01  功能规划</text><text x="463" y="211">02  文件与接口设计</text><text x="854" y="211">03  嵌入式 C 编码</text>
+    </g>
+    <g fill="#a7c3d3" font-size="15">
+      <text x="72" y="240">功能 · 状态时序 · 任务验收</text><text x="463" y="240">层级 · 职责 · 依赖 · 对外能力</text><text x="854" y="240">直接实现 · 必要边界 · 工程验证</text>
+    </g>
+  </g>
+</svg>

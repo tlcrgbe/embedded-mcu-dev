@@ -1,0 +1,20 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "embedded-mcu-development",
+  "version": "1.0.0-rc.2",
+  "description": "固定硬件MCU嵌入式C开发：产品功能与任务规划、模块分层与接口设计、直接且职责清楚的编码实现。",
+  "extensions": {
+    "com.openai": {
+      "interface": {
+        "displayName": "嵌入式 MCU 开发",
+        "shortDescription": "按任务选择功能规划、模块接口设计或MCU C编码",
+        "longDescription": "需求和产品行为未明确时用plan；源文件层级、职责、依赖及接口待确定时用design；行为与修改范围已明确时直接用code。三个独立入口按需使用，不要求每次走完整流程。",
+        "defaultPrompt": [
+          "使用 embedded-mcu-plan，把产品需求整理为功能规划与待决项，只规划。",
+          "使用 embedded-mcu-design，划分源文件、层级、职责、依赖和接口，不编码。",
+          "使用 embedded-mcu-code，在已确认范围内实现或评审 MCU C 代码。"
+        ]
+      }
+    }
+  }
+}
