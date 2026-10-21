@@ -12,7 +12,11 @@
 ![语言](https://img.shields.io/badge/面向-嵌入式_C-0f766e?style=flat-square)
 ![系统](https://img.shields.io/badge/运行环境-裸机_%7C_RTOS-64748b?style=flat-square)
 
-[快速安装](#快速安装) · [选择入口](#三个入口按需使用) · [使用示例](#从一个实际需求开始) · [安装与迁移](docs/installation.md) · [版本记录](CHANGELOG.md)
+[功能展示网站](https://embedded-cstyle-lab.mellowmule512.chatgpt.site/) · [快速安装](#快速安装) · [选择入口](#三个入口按需使用) · [使用示例](#从一个实际需求开始) · [安装与迁移](docs/installation.md) · [版本记录](CHANGELOG.md)
+
+[**打开交互展示 →**](https://embedded-cstyle-lab.mellowmule512.chatgpt.site/)
+
+浏览三个 skill 的职责、交接示例、提示词与安装指南。
 
 </div>
 
