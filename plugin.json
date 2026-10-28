@@ -1,7 +1,7 @@
 {
   "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
   "name": "embedded-mcu-development",
-  "version": "1.0.0-rc.2",
+  "version": "1.0.0-rc.3",
   "description": "固定硬件MCU嵌入式C开发：产品功能与任务规划、模块分层与接口设计、直接且职责清楚的编码实现。",
   "extensions": {
     "com.openai": {

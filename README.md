@@ -43,7 +43,7 @@
 | --- | --- | --- |
 | 需求还有缺项，需要明确功能、状态时序和验收 | [**plan · 功能与任务规划**](skills/embedded-mcu-plan/SKILL.md) `V1.0` | 功能边界、必要问题、待决项、任务依赖与验收要求 |
 | 功能方向已定，需要决定代码放在哪里、模块怎样协作 | [**design · 模块与接口设计**](skills/embedded-mcu-design/SKILL.md) `V1.0.1` | 源文件、层级、职责、状态归属、依赖和必要接口 |
-| 修改范围明确，需要实现、修改或评审代码 | [**code · MCU C 编码**](skills/embedded-mcu-code/SKILL.md) `V1.2` | 直接实现、适量注释、必要边界处理及相关验证 |
+| 修改范围明确，需要实现、修改或评审代码 | [**code · MCU C 编码**](skills/embedded-mcu-code/SKILL.md) `V1.3` | 直接实现、适量注释、必要边界处理及相关验证 |
 
 ```mermaid
 flowchart LR

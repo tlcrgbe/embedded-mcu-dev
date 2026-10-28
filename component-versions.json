@@ -1,7 +1,7 @@
 {
   "package": "embedded-mcu-development",
-  "package_version": "1.0.0-rc.2",
-  "date": "2026-10-21",
+  "package_version": "1.0.0-rc.3",
+  "date": "2026-10-28",
   "status": "公开仓库分发快照",
   "purpose": "维护版本与摘要清单；宿主入口为plugin.json",
   "components": [
@@ -29,12 +29,12 @@
     },
     {
       "name": "embedded-mcu-code",
-      "version": "1.2",
+      "version": "1.3",
       "source": "skills/embedded-mcu-code",
       "files": [
         {
           "file": "skills/embedded-mcu-code/SKILL.md",
-          "sha256": "33efc833460f363d2e55025989b46d1104137ed1dcd8e81e35e9555c471d5638"
+          "sha256": "686f09380fcf9a014638de3d706972d3e74cb2ca705d0d2244d0544f2bf9e4f4"
         },
         {
           "file": "skills/embedded-mcu-code/references/open-source-style.md",

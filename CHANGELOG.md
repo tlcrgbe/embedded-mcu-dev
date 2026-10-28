@@ -1,5 +1,10 @@
 # 版本记录
 
+## 1.0.0-rc.3 · 2026-10-28
+
+- `embedded-mcu-code` 升至 V1.3：明确新增防御机制的依据与授权范围、生成文件修改方式，以及真实实现的测试原则。
+- `embedded-mcu-plan` V1.0 和 `embedded-mcu-design` V1.0.1 保持不变。
+
 ## 1.0.0-rc.2 · 2026-10-21
 
 首次将当前三项技能作为 `embedded-mcu-dev` 独立仓库发布，插件包名保留 `embedded-mcu-development`。
